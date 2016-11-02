@@ -190,6 +190,13 @@ _____________
 	background-color: #ffffff;
 }
 
+.header-logo {
+	width: 300px;
+	height: 100px;
+	margin: auto;
+	background: url(logoheat.jpg);
+}
+
 .header-logo:before {
 	width: 300px;
 	height: 100px;
