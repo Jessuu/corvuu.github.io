@@ -194,7 +194,7 @@ _____________
 	width: 300px;
 	height: 100px;
 	margin: auto;
-	background: url(logoheat.jpg);
+	background: url("logoheat.jpg");
 }
 
 .header-logo:before {
@@ -202,7 +202,7 @@ _____________
 	height: 100px;
 	margin: auto;
 	content:"";
-	background: url(logoheat.jpg);
+	background: url("logoheat.jpg");
 }
 
 /*
